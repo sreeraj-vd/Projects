@@ -1,0 +1,19 @@
+.calc{
+    width: 400px;
+    height: 600px;
+    background: darkred;
+    margin-left: 400px;
+}
+#screen{
+    width: 97%;
+    height: 39px;
+    margin-left: 4px;
+    margin-top: 26px;
+}
+.btn{
+    margin-top: 30px;
+    width: 60px;
+    height: 45px;
+    background: chartreuse;
+    margin-left: 30px;
+}
