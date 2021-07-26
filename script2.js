@@ -1,7 +1,7 @@
 function display(val){
     document.getElementById("screen").value=document.getElementById("screen").value+val;
 }
-function cleardisplay(){
+function clearDisplay(){
     document.getElementById("screen").value=""
 }
 function equal(){
